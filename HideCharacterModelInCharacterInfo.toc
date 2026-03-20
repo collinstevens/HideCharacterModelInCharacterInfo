@@ -1,6 +1,7 @@
 ## Interface: 120001
 ## Title: Hide Character Model in Character Info
 ## Notes: Hides the character model from the Character Info panel
+## IconTexture: Interface\Icons\Ability_Stealth
 ## Author: Collin Stevens
 ## Version: 1.0.0
 ## X-Curse-Project-ID: 1490744
