@@ -3,9 +3,10 @@
 ## Notes: Hides the character model from the Character Info panel
 ## IconTexture: Interface\Icons\Ability_Stealth
 ## Author: Collin Stevens
-## Version: 1.0.3
+## Version: v1.0.4
 ## X-Website: https://github.com/collinstevens/HideCharacterModelInCharacterInfo
 ## X-Curse-Project-ID: 1490744
 ## X-Wago-ID: 56nd8pG9
+## X-WoWI-ID: 27084
 
 HideCharacterModelInCharacterInfo.lua
