@@ -5,9 +5,6 @@ HideCharacterModelInCharacterInfo:SetScript("OnEvent", function(self)
         CharacterModelScene:HookScript("OnShow", function(self)
             self:Hide()
         end)
-        -- if CharacterModelScene:IsShown() then
-        --     CharacterModelScene:Hide()
-        -- end
     end
     self:UnregisterEvent("PLAYER_LOGIN")
 end)
