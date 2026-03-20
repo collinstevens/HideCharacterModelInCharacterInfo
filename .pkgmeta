@@ -1,0 +1,10 @@
+package-as: HideCharacterModelInCharacterInfo
+
+ignore:
+  - .github
+  - .vscode
+  - .gitignore
+  - README.md
+  - logo.png
+  - logo.svg
+  - LICENSE
