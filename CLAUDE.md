@@ -1,0 +1,2 @@
+../BlizzardInterfaceArt is the export from WoW.exe of the interface art using `ExportInterfaceFiles art` to use as a reference
+../BlizzardInterfaceCode is the export from WoW.exe of the interface code using `ExportInterfaceFiles code` to use as a reference

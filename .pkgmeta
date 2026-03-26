@@ -8,3 +8,4 @@ ignore:
   - logo.png
   - logo.svg
   - LICENSE
+  - CLAUDE.md
