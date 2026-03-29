@@ -9,3 +9,4 @@ ignore:
   - logo.svg
   - LICENSE
   - CLAUDE.md
+  - media
